@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/drawable/bg_header.xml" value="0.1625" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/drawable/bg_item_rounded.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/drawable/ic_avatar.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.14054054054054055" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/drawable/ic_camera.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/drawable/ic_camera_foreground.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/drawable/ic_favorite.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/drawable/ic_gallery.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/activity_full_screen.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/activity_mobile_number.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/activity_registration.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/activity_selectlanguage.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/address_layout.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/capture_layout.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/finalreport_layout.xml" value="0.33" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/header.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/layout/terms_activity.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/mipmap-anydpi-v26/ic_camera.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/mipmap-anydpi-v26/ic_female.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Kd/TVSeries/YogeshKathoreFoundation/app/src/main/res/mipmap-anydpi-v26/ic_male.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112049385024",
+    "firebase_url": "https://yogesh-kathore-foundation-default-rtdb.firebaseio.com",
+    "project_id": "yogesh-kathore-foundation",
+    "storage_bucket": "yogesh-kathore-foundation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112049385024:android:eb2d7b796cb4fc3f7b39a5",
+        "android_client_info": {
+          "package_name": "com.yogeshkathore.foundation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112049385024-l3acnkkeimres2hrtfq4o7l760dp05dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yogeshkathore.foundation",
+            "certificate_hash": "4180577370b123f95b009b8a424022749144e5b6"
+          }
+        },
+        {
+          "client_id": "112049385024-67kbt2cjiv0746djqg3ccniatq6ja1v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAIJRtrjtomQ-De1ueOtxsr17Mzx3Tf6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112049385024-67kbt2cjiv0746djqg3ccniatq6ja1v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true"
+    android:orientation="vertical">
+
+
+    <include layout="@layout/header" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/nunito_bold"
+            android:gravity="center"
+            android:text="SELECT LANGUAGE"
+            android:textColor="@color/dark_late_gray"
+            android:textSize="25sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="@font/nunito_bold"
+            android:gravity="center"
+            android:text="भाषा निवडा "
+            android:textColor="@color/dark_late_gray"
+            android:textSize="25sp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/english"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:shadowRadius="@integer/config_navAnimTime"
+            android:background="@drawable/bg_header"
+            android:fontFamily="@font/nunito_bold"
+            android:padding="20dp"
+            android:text="@string/language"
+            android:textColor="@color/dark_late_gray"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:contentDescription="TODO"
+            android:layerType="software"
+            android:src="@drawable/shapedotted" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/hindi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:background="@drawable/bg_header"
+            android:fontFamily="@font/nunito_bold"
+            android:padding="20dp"
+            android:text="म | मराठी   "
+            android:textColor="@color/dark_late_gray"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+    <include
+        layout="@layout/shadow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
+
+

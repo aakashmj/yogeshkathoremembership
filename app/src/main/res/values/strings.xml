@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Yogesh Kathore Foundation</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_message">Message</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="version_app">version 1.1</string>
+    <string name="recommended">Recommended</string>
+    <string name="more">More</string>
+    <string name="dry_cleaning">Health Checkup</string>
+    <string name="wash_and_iron"><![CDATA[Wash & Iron]]></string>
+    <string name="ironing">History</string>
+    <string name="choose_services">Choose Services</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="msg_subscribed">Subscribed to Consensus</string>
+    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+    <!--
+         This is the name that users will see when interacting with this channel.
+         It should describe the category of notifications that will be sent through this channel
+      -->
+    <!-- [START fcm_default_icon_string] -->
+    <string name="default_notification_channel_name" translatable="true">Consensus</string>
+    <!-- [END fcm_default_icon_string] -->
+    <string name="msg_subscribe_failed">Failed to subscribe to Consensus topic</string>
+    <string name="fcm_message">FCM Message</string>
+
+    <string name="firstname">First Name</string>
+    <string name="middlename">Middle Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="language">E | English</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="address">Permanent Address </string>
+    <string name="district">District </string>
+    <string name="taluka">Taluka </string>
+    <string name="membership">Membership Form</string>
+    <string name="memyear">Primary Membership 2021 To 2023</string>
+    <string name="agreecheckbox">I Agree</string>
+    <string name="pincode">Pin Code</string>
+    <string name="terms">I would like to be a primary member of Yogesh Kathore Foundation. \nI will continue to support the agitations for the just rights for the fight against Hunger and Poverty. \nFor the two years 2021-2023, I am requesting to get the primary membership of the Yogesh Kathore Foundation.
+</string>
+    <string name="next">Next</string>
+    <string name="preference_file_key">consensuspref</string>
+    <string name="profiledetails">PROFILE DETAILS</string>
+    <string name="dob">Date Of Birth :</string>
+    <string name="photo_for_id_card">Photo For ID Card</string>
+    <string name="change_details">Change Details</string>
+    <string name="id_no">ID No :</string>
+    <string name="member">Member</string>
+    <string name="name">Name :</string>
+    <string name="location">Location :</string>
+    <string name="education">Education</string>
+    <string name="schoolname">School Name</string>
+    <string name="designation">Designation</string>
+
+</resources>
